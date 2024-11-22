@@ -4,7 +4,7 @@ POR: JUAN MANUEL ESCOBAR MEJIA
 
 En este proyecto vemos la extencion de las capacidades de codigo base respectivo al proyecto final de estructuras de datos II entregado por el profesor, donde se le han añadido las siguientes caracteristicas:
 
-#1 - funcion de calculo de k-trayectorias
+1 - funcion de calculo de k-trayectorias
 
 2 - implementacion de un boton en la interfaz para definir k
 
